@@ -73,4 +73,3 @@ Conclusion
 The HR Analytics Dashboard provides in-depth insights into employee performance, satisfaction, and retention trends. HR teams can use these insights to develop data-driven strategies for improving workplace satisfaction and reducing turnover. Future improvements can include predictive modeling for attrition and AI-driven insights for workforce optimization.
 
 Developed Using: Power BI | DAX | Data Analytics
-
