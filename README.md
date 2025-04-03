@@ -64,8 +64,8 @@ Power BI Desktop Report
 
 ![HR Analytics Dashboard Snapshot - Desktop]
 
-![Image](https://github.com/user-attachments/assets/1b7de19e-1597-4f85-a956-62aff4987e8f)
 ![Image](https://github.com/user-attachments/assets/99a3e2fd-e776-48e9-a0c2-e2838d621172)
+![Image](https://github.com/user-attachments/assets/1b7de19e-1597-4f85-a956-62aff4987e8f)
 ![Image](https://github.com/user-attachments/assets/d0c18249-1a7e-468e-ae18-7e7bc87bbd70)
 
 Conclusion
